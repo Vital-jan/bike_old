@@ -1,0 +1,512 @@
+$color-dark: #333333;
+$color-light: rgb(228, 246, 247);
+$color-bright: #ff6633;
+$background: #9bbee6;
+$background2: #6699cc;
+$background3: #7595bb;
+
+$z_index_button: 2;
+
+$w1300: 1350px;
+$w1100: 1100px;
+$w960: 960px;
+$w780: 780px;
+$w640: 640px;
+$w550: 550px;
+$w480: 480px;
+
+@font-face { /* logo */
+    font-family: 'share_techregular';
+    src: url('../font/sharetech-regular-webfont.woff2') format('woff2'),
+         url('../font/sharetech-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_cyregular';
+    src: url('../font/helvetica_cy-webfont.eot');
+    src: url('../font/helvetica_cy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/helvetica_cy-webfont.woff2') format('woff2'),
+         url('../font/helvetica_cy-webfont.woff') format('woff'),
+         url('../font/helvetica_cy-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'helvetica_cybold';
+    src: url('../font/helvetica_cy_bold-webfont.eot');
+    src: url('../font/helvetica_cy_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/helvetica_cy_bold-webfont.woff2') format('woff2'),
+         url('../font/helvetica_cy_bold-webfont.woff') format('woff'),
+         url('../font/helvetica_cy_bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'helvetica_cybold_italic';
+    src: url('../font/helvetica_cy_bold_italic-webfont.eot');
+    src: url('../font/helvetica_cy_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/helvetica_cy_bold_italic-webfont.woff2') format('woff2'),
+         url('../font/helvetica_cy_bold_italic-webfont.woff') format('woff'),
+         url('../font/helvetica_cy_bold_italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_cyitalic';
+    src: url('../font/helvetica_cy_italic-webfont.eot');
+    src: url('../font/helvetica_cy_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/helvetica_cy_italic-webfont.woff2') format('woff2'),
+         url('../font/helvetica_cy_italic-webfont.woff') format('woff'),
+         url('../font/helvetica_cy_italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    position: relative;
+    min-width: 360px;
+    opacity:0;
+    font-family: 'helvetica_cyregular';
+    font-size: 22px;
+    color: $color-dark;
+    background-color: $background;
+
+    .text-bold {
+        font-size: 1.5em;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .text-light {
+        color: $color-light;
+        text-shadow: 0 0 2px $color-dark;
+    }
+    .text-dark {
+        color: $color-dark;
+        text-shadow: 0 0 2px $color-light;
+    }
+    .text-bright {
+        color: $color-bright;
+    }
+    .click {
+        cursor: pointer;
+    }
+}
+
+.header {
+    width: 100%;
+    height: 260px;
+    @media (max-width: $w1100) {
+        height: 240px;
+    }
+    @media (max-width: $w960) {
+        height: 200px;
+    }
+    @media (max-width: $w780) {
+        height: 180px;
+    }
+    @media (max-width: $w640) {
+        height: 170px;
+    }
+    @media (max-width: $w550) {
+        height: 220px;
+    }
+    @media (max-width: $w480) {
+        height: 200px;
+    }
+
+    position: fixed;
+    background: url(../img/track6.png) no-repeat;
+    background-size: auto 60%;
+    background-position: bottom;
+    background-color: $background;
+    z-index: 1;
+
+    .header-content{
+        padding-right: 20px;
+        width: 100%;
+        height: 100%;
+
+        .register {
+            text-align: right;
+            width: 100%;
+            height: 40%;
+            @media (max-width: $w550) {
+                height: 30%;
+            }
+            @media (max-width: $w480) {
+                height: 30%;
+            }
+    
+            .register__item {
+                z-index: $z_index_button;
+                margin-left: 5px;
+                cursor: pointer;
+                max-height: 100%;
+            } // register-item
+        } // register
+        
+        .nav-bar {
+            width: 100%;
+            height: 70%;
+            @media (max-width: $w550) {
+                height: 70%;
+            }
+            .slogan {
+                font-style: italic;
+                font-size: 40px;
+                color: $color-light;
+                width: 100%;
+                height: 30%;
+                text-align: right;
+                @media (max-width: $w1100) {
+                    font-size: 33px;
+                }
+                @media (max-width: $w960) {
+                    font-size: 30px;
+                }
+                @media (max-width: $w780) {
+                    font-size: 25px;
+                }
+                @media (max-width: $w640) {
+                }
+                @media (max-width: $w550) {
+                    font-size: 27px;
+                    height: 50%;
+                    padding-top: 2%;
+                    padding-left: 47%;
+                    text-align: right;
+                }
+                @media (max-width: $w480) {
+                    height: 60%;
+                    font-size: 20px;
+                    padding-left: 60%;
+                    text-align: center;
+                }
+            } // slogan
+    
+            .menu-bar {
+                text-align: right;
+                height: 65%;
+                padding-bottom: 15px;
+
+                @media (max-width: $w480) {
+                    height: 40%;
+                    padding-bottom: 0;
+                }
+
+                .menu__item {
+                    cursor: pointer;
+                    height: 90%;
+                    margin-left: 25px;
+                    
+                    background: linear-gradient(to bottom, $color-light, $background2);
+                    border-radius: 20px;
+                    border: 4px solid $color-light;
+                    
+                    @media (max-width: $w550) {
+                        height: 60%;
+                        margin-left: 15px;
+                    }
+                    @media (max-width: $w480) {
+                        height: 90%;
+                        margin-left: 15px;
+                    }
+    
+                } // menu-item
+            } // menu-bar
+        } // nav-bar
+    } // header-content
+
+    .separate-bar {
+        height: 15px;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        background: linear-gradient(to bottom, transparent, $background3);
+    } // separate-bar
+
+} // header
+
+
+.logo {
+    display: none;
+    width: 50%;
+    @media (max-width: $w640) {
+        width: 40%;
+    }
+    height: 100px;
+    display: flex;
+    z-index: 1;
+    .wheel1 {
+        display: block;
+        width: 300px;
+        height: 300px;
+        position: fixed;
+        top: 300px;
+        left: 400px;
+        div {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    
+            %img {
+                max-width: 100%;
+                max-height: 100%;
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                img {
+                    width: 100%;
+                    position: absolute;
+                }
+            }
+            .logo__globe {
+                @extend %img;
+                width: 90%;
+                opacity: .5;
+                transform: rotate(0deg);
+            }
+            .logo__wheel {
+                @extend %img;
+                transform: rotate(0deg);
+            }
+        }
+    }
+    
+    .wheel2 {
+        position: fixed;
+        opacity: 0;
+        width: 200px;
+        height: 200px;
+        top: 80px;
+        left: 320px;
+        img {
+            width: 100%;
+        }
+        @media (max-width: $w1100) {
+            width: 120px;
+            height: 120px;
+            left: 186px;
+            top: 60px;
+        }
+        @media (max-width: $w640) {
+            left: 129px;
+            top: 67px;
+            width: 80px;
+            height: 80px;
+        }
+        @media (max-width: $w480) {
+            top: 47px;
+        }
+    }
+    .logo-text {
+        position: fixed;
+        font-size: 200px;
+        font-weight: bold;
+        font-style: italic;
+        font-family: 'share_techregular';
+        color: $color-dark;
+        width: 50%;
+        height: 300px;
+        top: 0;
+        left: 0;
+        @media (max-width: $w1100) {
+            font-size: 140px;
+        }
+        @media (max-width: $w640) {
+            font-size: 90px;
+        }
+
+        .row1 {
+            opacity: 0;
+            position: absolute;
+            font-size: 140px;
+            left: 50px;
+            top: -40px;
+            transform: scale(0.5, 0.3);
+            @media (max-width: $w1100) {
+                font-size: 90px;
+                left: 30px;
+                top: -30px;
+            }
+            @media (max-width: $w640) {
+                font-size: 62px;
+                left: 21px;
+                top: 10px;
+            }
+            @media (max-width: $w480) {
+                top: -10px;
+            }
+        }
+        .row2 {
+            opacity: 0;
+            position: absolute;
+            left: 123px;
+            top: -22px;
+            transform: scale(0.5, 0.3);
+            @media (max-width: $w1100) {
+                left: 52px;
+                top: -22px;
+            }
+            @media (max-width: $w640) {
+                left: 41px;
+                top: 17px;
+            }
+            @media (max-width: $w480) {
+                top: -3px;
+            }
+        }
+        .row3 {
+            opacity: 0;
+            position: absolute;
+            font-size: 110px;
+            left: 268px;
+            top: 69px;
+            transform: scale(0.5, 0.3);
+            @media (max-width: $w1100) {
+                font-size: 85px;
+                left: 148px;
+                top: 34px;
+            }
+            @media (max-width: $w640) {
+                font-size: 60px;
+                left: 104px;
+                top: 50px;
+            }
+            @media (max-width: $w480) {
+                top: 30px;
+            }
+        }
+        .row4 {
+            opacity: 0;
+            position: absolute;
+            left: 166px;
+            top: 77px;
+            transform: scale(0.5, 0.3);
+            @media (max-width: $w1100) {
+                left: 81px;
+                top: 42px;
+            }
+            @media (max-width: $w640) {
+                left: 62px;
+                top: 57px;
+            }
+            @media (max-width: $w480) {
+                top: 37px;
+            }
+        }
+    }
+}
+
+#slider1 {
+    position: absolute;
+    top: 260px;
+    @media (max-width: $w1100) {
+        top: 240px;
+    }
+    @media (max-width: $w960) {
+        top: 200px;
+    }
+    @media (max-width: $w780) {
+        top: 180px;
+    }
+    @media (max-width: $w640) {
+        top: 170px;
+    }
+    @media (max-width: $w550) {
+        top: 220px;
+    }
+    @media (max-width: $w480) {
+        top: 200px;
+    }
+} // slider1
+
+.form {
+    color: $color-light;
+    font-size: 0.9em;
+
+    @-webkit-keyframes autofill { // убираем фон автозаполнения chrome  --- [
+        to {
+          color: $color-dark;
+          background: $color-light;
+        }
+      }
+       
+      input:-webkit-autofill {
+        -webkit-animation-name: autofill;
+        -webkit-animation-fill-mode: both;
+      } //---------------------------------------------------------------]
+
+    label {
+        margin: 0 auto 10px;
+        display: block;
+    }
+
+    input {
+        outline: none;
+        display: inline-block; 
+        width: 100%;
+    }
+
+    .input_text {
+        font-size: .9em;
+        background-color: $color-light;
+        border-radius: 15px;
+        border: 2px solid grey;
+        padding: 5px;
+    } // input-text
+
+
+    .checkbox {
+        cursor: pointer;
+        span {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border-radius: 30%;
+            background-color: $color-light;
+            border: 4px solid $color-light;
+            top: 2px;
+            left: -5px;
+        }
+    }         
+    input[type=checkbox] {
+        display: none;
+        &:checked+span {
+            background-color: $color-dark;
+        }
+    }
+
+
+    input[type=checkbox] {
+        display: none;
+    }
+
+
+} // form
+
+.login {
+    // background-image: url(../img/login_bg.jpg);
+    // background-repeat: no-repeat;
+    // background-size: 100%;
+    background-image: url(../img/form_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    width: 200px;
+    height: 200px;
+    color: $background!important;
+} // login

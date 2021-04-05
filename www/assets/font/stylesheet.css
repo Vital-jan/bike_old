@@ -1,0 +1,8 @@
+
+@font-face { /* logo */
+    font-family: 'share_techregular';
+    src: url('sharetech-regular-webfont.woff2') format('woff2'),
+         url('sharetech-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta name="description" content="">
+<meta name="author" content="Vitalii Kolomiiets, Kyiv, Ukraine, vitaljan@gmail.com">
+<title></title>
+<style>
+    span {
+        margin-right: 50px;
+    }
+</style>
+</head>
+<body>
+    
+    <div>&lt;main&gt;
+    </div>
+</body>
+<script src='ukraine_data.js'></script>
+<script>
+    let a = array.level1;
+    let el = document.querySelector('div');
+    let cities = [];
+    let regions = [];
+    a.forEach((i, n)=>{
+        i.level2.forEach((i2, n2)=>{
+            let region = i.name.substring(0, i.name.indexOf('/'));
+            if (i2.name.indexOf('МІСТА') <0 && i2.name.indexOf('РАЙОНИ') <0) {
+            i2.name = i2.name.substring(i2.name.indexOf('/М.'), i2.name.length)
+            i2.name = i2.name.replace('/М.', '');
+            i2.name = i2.name.substring(i2.name.indexOf('/СМТ'), i2.name.length)
+            i2.name = i2.name.replace('/СМТ ', '');
+            // let exist = cities.indexOf(i2.name) <0;
+            let exist = cities.filter((item)=>{
+                return item.regionID == n && item.city == i2.name;
+            }).length;
+            if (exist == 0) {
+            cities.push({regionID: n, region: region, cityID: 0, city: i2.name});
+            el.innerHTML += `<li>&lt;line&gt;
+                <span>&lt;region_id&gt;${n}&lt;/region_id&gt;</span>
+                <span>&lt;region&gt;${region}&lt/region&gt;</span>
+                <span>&lt;city&gt;${i2.name}&lt;/city&gt;</span>
+                &lt;/line&gt;</li>`;
+            }
+            }
+                if (i2.level3) i2.level3.forEach((i3, n3)=>{
+                    if (i3.name.indexOf('МІСТА') <0 && i3.name.indexOf('РАЙОНИ') <0) {
+                        i3.name = i3.name.substring(i3.name.indexOf('/М.'), i3.name.length)
+                        i3.name = i3.name.substring(i3.name.indexOf('/СМТ'), i3.name.length)
+                        i3.name = i3.name.replace('/М.', '');
+                        i3.name = i3.name.replace('/СМТ ', '');
+                        // exist = cities.indexOf(i3.name) < 0;
+                        exist = cities.filter((item)=>{
+                            return item.regionID == n && item.city == i2.name;
+                        }).length;
+                        if (i3.type=="М" && exist == 0) {
+                            cities.push({regionID: n, region: region, cityID: 0, city: i3.name});
+                            el.innerHTML += `<li>&lt;line&gt;
+                            <span>&lt;region_id&gt;${n}&lt;/region_id&gt;</span>
+                            <span>&lt;region&gt;${region}&lt;/region&gt;</span>
+                            <span>&lt;city&gt;${i3.name}&lt;/city&gt;</span>
+                            &lt;/line&gt;</li>`;
+                    }
+                }
+            })
+        })
+    })
+    cities.forEach((i, n)=>{
+        i.cityID = n;
+    })
+    console.log(JSON.stringify(cities))
+    el.innerHTML += '&lt;/main&gt;';
+</script>
+</html>

@@ -1,0 +1,586 @@
+<main>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>СІМФЕРОПОЛЬ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>АЛУШТА</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>ДЖАНКОЙ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>ЄВПАТОРІЯ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>КЕРЧ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>КРАСНОПЕРЕКОПСЬК</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>САКИ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>АРМЯНСЬК</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>ФЕОДОСІЯ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>СУДАК</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>ЯЛТА</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>БАХЧИСАРАЙ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>БІЛОГІРСЬК</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>КІРОВСЬКЕ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>КРАСНОГВАРДІЙСЬКЕ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>ЛЕНІНЕ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>НИЖНЬОГІРСЬКИЙ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>ПЕРВОМАЙСЬКЕ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>РОЗДОЛЬНЕ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>СОВЄТСЬКИЙ</city> </line>
+<line> <region_id>0</region_id> <region>АВТОНОМНА РЕСПУБЛІКА КРИМ</region> <city>ЧОРНОМОРСЬКЕ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ВІННИЦЯ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ЖМЕРИНКА</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>МОГИЛІВ-ПОДІЛЬСЬКИЙ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>КОЗЯТИН</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ЛАДИЖИН</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ХМІЛЬНИК</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>БАР</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>БЕРШАДЬ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ГАЙСИН</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ІЛЛІНЦІ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>КАЛИНІВКА</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>КРИЖОПІЛЬ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ЛИПОВЕЦЬ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ЛІТИН</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>МУРОВАНІ КУРИЛІВЦІ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>НЕМИРІВ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ОРАТІВ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ПІЩАНКА</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ПОГРЕБИЩЕ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ТЕПЛИК</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ТОМАШПІЛЬ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ТРОСТЯНЕЦЬ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ТУЛЬЧИН</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ТИВРІВ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ЧЕРНІВЦІ</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ЧЕЧЕЛЬНИК</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ШАРГОРОД</city> </line>
+<line> <region_id>1</region_id> <region>ВІННИЦЬКА ОБЛАСТЬ</region> <city>ЯМПІЛЬ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ЛУЦЬК</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ВОЛОДИМИР-ВОЛИНСЬКИЙ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>КОВЕЛЬ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>НОВОВОЛИНСЬК</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ГОРОХІВ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ІВАНИЧІ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>КАМІНЬ-КАШИРСЬКИЙ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>КІВЕРЦІ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ЛОКАЧІ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ЛЮБЕШІВ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ЛЮБОМЛЬ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>МАНЕВИЧІ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>РАТНЕ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>РОЖИЩЕ</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>СТАРА ВИЖІВКА</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ТУРІЙСЬК</city> </line>
+<line> <region_id>2</region_id> <region>ВОЛИНСЬКА ОБЛАСТЬ</region> <city>ШАЦЬК</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ДНІПРО</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ВІЛЬНОГІРСЬК</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>КАМ'ЯНСЬКЕ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ЖОВТІ ВОДИ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>КРИВИЙ РІГ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>МАРГАНЕЦЬ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>НІКОПОЛЬ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>НОВОМОСКОВСЬК</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ПОКРОВ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ПАВЛОГРАД</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ПЕРШОТРАВЕНСЬК</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>СИНЕЛЬНИКОВЕ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ТЕРНІВКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>АПОСТОЛОВЕ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ВАСИЛЬКІВКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ВЕРХНЬОДНІПРОВСЬК</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>КРИНИЧКИ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>МАГДАЛИНІВКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>МЕЖОВА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ПЕТРИКІВКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ПЕТРОПАВЛІВКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ПОКРОВСЬКЕ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>П'ЯТИХАТКИ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>СОЛОНЕ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>СОФІЇВКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ТОМАКІВКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ЦАРИЧАНКА</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ШИРОКЕ</city> </line>
+<line> <region_id>3</region_id> <region>ДНІПРОПЕТРОВСЬКА ОБЛАСТЬ</region> <city>ЮР'ЇВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ДОНЕЦЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>АВДІЇВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>БАХМУТ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ГОРЛІВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ДЕБАЛЬЦЕВЕ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ТОРЕЦЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>МИРНОГРАД</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ДОБРОПІЛЛЯ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ДОКУЧАЄВСЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ДРУЖКІВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ЄНАКІЄВЕ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ЖДАНІВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>МАРІУПОЛЬ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ХРЕСТІВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>КОСТЯНТИНІВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>КРАМАТОРСЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ПОКРОВСЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ЛИМАН</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>МАКІЇВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>НОВОГРОДІВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>СЕЛИДОВЕ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>СЛОВ'ЯНСЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>СНІЖНЕ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ЧИСТЯКОВЕ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ВУГЛЕДАР</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ХАРЦИЗЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ШАХТАРСЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ЯСИНУВАТА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ОЛЕКСАНДРІВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>АМВРОСІЇВКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ВЕЛИКА НОВОСІЛКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>ВОЛНОВАХА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>НІКОЛЬСЬКЕ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>МАР'ЇНКА</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>НОВОАЗОВСЬК</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>МАНГУШ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>СТАРОБЕШЕВЕ</city> </line>
+<line> <region_id>4</region_id> <region>ДОНЕЦЬКА ОБЛАСТЬ</region> <city>БОЙКІВСЬКЕ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ЖИТОМИР</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>БЕРДИЧІВ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>КОРОСТЕНЬ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>МАЛИН</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>НОВОГРАД-ВОЛИНСЬКИЙ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>АНДРУШІВКА</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>БАРАНІВКА</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>БРУСИЛІВ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ХОРОШІВ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>РОМАНІВ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ЄМІЛЬЧИНЕ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>КОРОСТИШІВ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ЛУГИНИ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ЛЮБАР</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>НАРОДИЧІ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ОВРУЧ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ОЛЕВСЬК</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ПОПІЛЬНЯ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>РАДОМИШЛЬ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>РУЖИН</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ПУЛИНИ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ЧЕРНЯХІВ</city> </line>
+<line> <region_id>5</region_id> <region>ЖИТОМИРСЬКА ОБЛАСТЬ</region> <city>ЧУДНІВ</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>УЖГОРОД</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>БЕРЕГОВЕ</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>МУКАЧЕВО</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ХУСТ</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ЧОП</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ВЕЛИКИЙ БЕРЕЗНИЙ</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ВИНОГРАДІВ</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ВОЛОВЕЦЬ</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ІРШАВА</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>МІЖГІР'Я</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ПЕРЕЧИН</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>РАХІВ</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>СВАЛЯВА</city> </line>
+<line> <region_id>6</region_id> <region>ЗАКАРПАТСЬКА ОБЛАСТЬ</region> <city>ТЯЧІВ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ЗАПОРІЖЖЯ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>БЕРДЯНСЬК</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>МЕЛІТОПОЛЬ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ТОКМАК</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ЕНЕРГОДАР</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ЯКИМІВКА</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ВАСИЛІВКА</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ВЕЛИКОБІЛОЗЕРСЬКИЙ РАЙОН/С.ВЕЛИКА БІЛОЗЕРКА</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ВЕСЕЛЕ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ВІЛЬНЯНСЬК</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ГУЛЯЙПОЛЕ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>КАМ'ЯНКА-ДНІПРОВСЬКА</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>БІЛЬМАК</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>МИХАЙЛІВКА</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>НОВОМИКОЛАЇВКА</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ОРІХІВ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ПОЛОГИ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ПРИАЗОВСЬКЕ</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ПРИМОРСЬК</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>РОЗІВКА</city> </line>
+<line> <region_id>7</region_id> <region>ЗАПОРІЗЬКА ОБЛАСТЬ</region> <city>ЧЕРНІГІВКА</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ІВАНО-ФРАНКІВСЬК</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>БОЛЕХІВ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>БУРШТИН</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>КАЛУШ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>КОЛОМИЯ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ЯРЕМЧЕ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>БОГОРОДЧАНИ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ВЕРХОВИНА</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ГАЛИЧ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ГОРОДЕНКА</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ДОЛИНА</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>КОСІВ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>НАДВІРНА</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>РОГАТИН</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>РОЖНЯТІВ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>СНЯТИН</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ТЛУМАЧ</city> </line>
+<line> <region_id>8</region_id> <region>ІВАНО-ФРАНКІВСЬКА ОБЛАСТЬ</region> <city>ТИСМЕНИЦЯ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БІЛА ЦЕРКВА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БЕРЕЗАНЬ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БОРИСПІЛЬ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БРОВАРИ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ВАСИЛЬКІВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БУЧА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ІРПІНЬ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ПЕРЕЯСЛАВ-ХМЕЛЬНИЦЬКИЙ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ПРИП'ЯТЬ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ФАСТІВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>РЖИЩІВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>СЛАВУТИЧ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ОБУХІВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БАРИШІВКА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БОГУСЛАВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>БОРОДЯНКА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ВОЛОДАРКА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ВИШГОРОД</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ЗГУРІВКА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ІВАНКІВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>КАГАРЛИК</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>КИЇВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>МАКАРІВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>МИРОНІВКА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>КРАСЯТИЧІ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>РОКИТНЕ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>СКВИРА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>СТАВИЩЕ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ТАРАЩА</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ТЕТІЇВ</city> </line>
+<line> <region_id>9</region_id> <region>КИЇВСЬКА ОБЛАСТЬ</region> <city>ЯГОТИН</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>КРОПИВНИЦЬКИЙ</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ОЛЕКСАНДРІЯ</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ЗНАМ'ЯНКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>СВІТЛОВОДСЬК</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ОЛЕКСАНДРІВКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>БОБРИНЕЦЬ</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ГАЙВОРОН</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ГОЛОВАНІВСЬК</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ДОБРОВЕЛИЧКІВКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ДОЛИНСЬКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>КОМПАНІЇВКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>МАЛА ВИСКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>НОВГОРОДКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>НОВОАРХАНГЕЛЬСЬК</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>НОВОМИРГОРОД</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>НОВОУКРАЇНКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ВІЛЬШАНКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ОНУФРІЇВКА</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>ПЕТРОВЕ</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>БЛАГОВІЩЕНСЬКЕ</city> </line>
+<line> <region_id>10</region_id> <region>КІРОВОГРАДСЬКА ОБЛАСТЬ</region> <city>УСТИНІВКА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ЛУГАНСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>АНТРАЦИТ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>БРЯНКА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ГОЛУБІВКА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>АЛЧЕВСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>СОРОКИНЕ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ХРУСТАЛЬНИЙ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ЛИСИЧАНСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ПЕРВОМАЙСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>РОВЕНЬКИ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>РУБІЖНЕ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ДОВЖАНСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>СЄВЄРОДОНЕЦЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>КАДІЇВКА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>БІЛОВОДСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>БІЛОКУРАКИНЕ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>КРЕМІННА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ЛУТУГИНЕ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>МАРКІВКА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>МІЛОВЕ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>НОВОАЙДАР</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>НОВОПСКОВ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ПЕРЕВАЛЬСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ПОПАСНА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>СВАТОВЕ</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>СЛОВ'ЯНОСЕРБСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>СТАНИЦЯ ЛУГАНСЬКА</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>СТАРОБІЛЬСЬК</city> </line>
+<line> <region_id>11</region_id> <region>ЛУГАНСЬКА ОБЛАСТЬ</region> <city>ТРОЇЦЬКЕ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ЛЬВІВ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>БОРИСЛАВ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ДРОГОБИЧ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>МОРШИН</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>НОВИЙ РОЗДІЛ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>САМБІР</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>СТРИЙ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ТРУСКАВЕЦЬ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ЧЕРВОНОГРАД</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>БРОДИ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>БУСЬК</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ГОРОДОК</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ЖИДАЧІВ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ЗОЛОЧІВ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>КАМ'ЯНКА-БУЗЬКА</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>МОСТИСЬКА</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ЖОВКВА</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>МИКОЛАЇВ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ПЕРЕМИШЛЯНИ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ПУСТОМИТИ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>РАДЕХІВ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>СКОЛЕ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>СОКАЛЬ</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>СТАРИЙ САМБІР</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ТУРКА</city> </line>
+<line> <region_id>12</region_id> <region>ЛЬВІВСЬКА ОБЛАСТЬ</region> <city>ЯВОРІВ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>МИКОЛАЇВ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ВОЗНЕСЕНСЬК</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ОЧАКІВ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ПЕРВОМАЙСЬК</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ЮЖНОУКРАЇНСЬК</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>АРБУЗИНКА</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>БАШТАНКА</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>БЕРЕЗАНКА</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>БЕРЕЗНЕГУВАТЕ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>БРАТСЬКЕ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ВЕСЕЛИНОВЕ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ВРАДІЇВКА</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ДОМАНІВКА</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>ЄЛАНЕЦЬ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>КАЗАНКА</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>КРИВЕ ОЗЕРО</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>НОВИЙ БУГ</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>НОВА ОДЕСА</city> </line>
+<line> <region_id>13</region_id> <region>МИКОЛАЇВСЬКА ОБЛАСТЬ</region> <city>СНІГУРІВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ОДЕСА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>БАЛТА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>БІЛГОРОД-ДНІСТРОВСЬКИЙ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>БІЛЯЇВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ІЗМАЇЛ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ЧОРНОМОРСЬК</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ПОДІЛЬСЬК</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ТЕПЛОДАР</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ЮЖНЕ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>АНАНЬЇВ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>АРЦИЗ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>БЕРЕЗІВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>БОЛГРАД</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ВЕЛИКА МИХАЙЛІВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ІВАНІВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>КІЛІЯ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>КОДИМА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ДОБРОСЛАВ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ОКНИ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ЛЮБАШІВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>МИКОЛАЇВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ОВІДІОПОЛЬ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>РОЗДІЛЬНА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>РЕНІ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>САВРАНЬ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>САРАТА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ТАРУТИНЕ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ТАТАРБУНАРИ</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ЗАХАРІВКА</city> </line>
+<line> <region_id>14</region_id> <region>ОДЕСЬКА ОБЛАСТЬ</region> <city>ШИРЯЄВЕ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ПОЛТАВА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ГОРІШНІ ПЛАВНІ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ГАДЯЧ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>КРЕМЕНЧУК</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ЛУБНИ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>МИРГОРОД</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ВЕЛИКА БАГАЧКА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ГЛОБИНЕ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ГРЕБІНКА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ДИКАНЬКА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ЗІНЬКІВ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>КАРЛІВКА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>КОБЕЛЯКИ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>КОЗЕЛЬЩИНА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>КОТЕЛЬВА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ЛОХВИЦЯ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>МАШІВКА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>НОВІ САНЖАРИ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ОРЖИЦЯ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ПИРЯТИН</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>РЕШЕТИЛІВКА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>СЕМЕНІВКА</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ХОРОЛ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ЧОРНУХИ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ЧУТОВЕ</city> </line>
+<line> <region_id>15</region_id> <region>ПОЛТАВСЬКА ОБЛАСТЬ</region> <city>ШИШАКИ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>РІВНЕ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ДУБНО</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ВАРАШ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ОСТРОГ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>БЕРЕЗНЕ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ВОЛОДИМИРЕЦЬ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ГОЩА</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ДЕМИДІВКА</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ДУБРОВИЦЯ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ЗАРІЧНЕ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>ЗДОЛБУНІВ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>КОРЕЦЬ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>КОСТОПІЛЬ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>МЛИНІВ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>РОКИТНЕ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>САРНИ</city> </line>
+<line> <region_id>16</region_id> <region>РІВНЕНСЬКА ОБЛАСТЬ</region> <city>РАДИВИЛІВ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>СУМИ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ОХТИРКА</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ГЛУХІВ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>КОНОТОП</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ЛЕБЕДИН</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>РОМНИ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ШОСТКА</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>БІЛОПІЛЛЯ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>БУРИНЬ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ВЕЛИКА ПИСАРІВКА</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>КРАСНОПІЛЛЯ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>КРОЛЕВЕЦЬ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ЛИПОВА ДОЛИНА</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>НЕДРИГАЙЛІВ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ПУТИВЛЬ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>СЕРЕДИНА-БУДА</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ТРОСТЯНЕЦЬ</city> </line>
+<line> <region_id>17</region_id> <region>СУМСЬКА ОБЛАСТЬ</region> <city>ЯМПІЛЬ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ТЕРНОПІЛЬ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ЧОРТКІВ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>БЕРЕЖАНИ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>КРЕМЕНЕЦЬ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>БОРЩІВ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>БУЧАЧ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ГУСЯТИН</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ЗАЛІЩИКИ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ЗБАРАЖ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ЗБОРІВ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>КОЗОВА</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ЛАНІВЦІ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>МОНАСТИРИСЬКА</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ПІДВОЛОЧИСЬК</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ПІДГАЙЦІ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ТЕРЕБОВЛЯ</city> </line>
+<line> <region_id>18</region_id> <region>ТЕРНОПІЛЬСЬКА ОБЛАСТЬ</region> <city>ШУМСЬК</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ХАРКІВ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ІЗЮМ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>КУП'ЯНСЬК</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ЛОЗОВА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ЛЮБОТИН</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ПЕРВОМАЙСЬКИЙ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ЧУГУЇВ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>БАЛАКЛІЯ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>БАРВІНКОВЕ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>БЛИЗНЮКИ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>БОГОДУХІВ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>БОРОВА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ВАЛКИ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ВЕЛИКИЙ БУРЛУК</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ВОВЧАНСЬК</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ЗМІЇВ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ДВОРІЧНА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ДЕРГАЧІ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ЗАЧЕПИЛІВКА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ЗОЛОЧІВ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>КЕГИЧІВКА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>КОЛОМАК</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>КРАСНОГРАД</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>КРАСНОКУТСЬК</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>КРАСНОПАВЛІВКА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>НОВА ВОДОЛАГА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ПЕЧЕНІГИ</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>САХНОВЩИНА</city> </line>
+<line> <region_id>19</region_id> <region>ХАРКІВСЬКА ОБЛАСТЬ</region> <city>ШЕВЧЕНКОВЕ</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ХЕРСОН</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ГОЛА ПРИСТАНЬ</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>КАХОВКА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>НОВА КАХОВКА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>БІЛОЗЕРКА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>БЕРИСЛАВ</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ВЕЛИКА ОЛЕКСАНДРІВКА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ВЕЛИКА ЛЕПЕТИХА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ВЕРХНІЙ РОГАЧИК</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ВИСОКОПІЛЛЯ</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ГЕНІЧЕСЬК</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ГОРНОСТАЇВКА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ІВАНІВКА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>КАЛАНЧАК</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>НИЖНІ СІРОГОЗИ</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>НОВОВОРОНЦОВКА</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>НОВОТРОЇЦЬКЕ</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>СКАДОВСЬК</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ОЛЕШКИ</city> </line>
+<line> <region_id>20</region_id> <region>ХЕРСОНСЬКА ОБЛАСТЬ</region> <city>ЧАПЛИНКА</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ХМЕЛЬНИЦЬКИЙ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>КАМ'ЯНЕЦЬ-ПОДІЛЬСЬКИЙ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>НЕТІШИН</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>СЛАВУТА</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ШЕПЕТІВКА</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>СТАРОКОСТЯНТИНІВ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>БІЛОГІР'Я</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ВІНЬКІВЦІ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ВОЛОЧИСЬК</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ГОРОДОК</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ДЕРАЖНЯ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ДУНАЇВЦІ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ІЗЯСЛАВ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>КРАСИЛІВ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ЛЕТИЧІВ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>НОВА УШИЦЯ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ПОЛОННЕ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>СТАРА СИНЯВА</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ТЕОФІПОЛЬ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ЧЕМЕРІВЦІ</city> </line>
+<line> <region_id>21</region_id> <region>ХМЕЛЬНИЦЬКА ОБЛАСТЬ</region> <city>ЯРМОЛИНЦІ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ЧЕРКАСИ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ВАТУТІНЕ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>КАНІВ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ЗОЛОТОНОША</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>СМІЛА</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>УМАНЬ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ГОРОДИЩЕ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ДРАБІВ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ЖАШКІВ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ЗВЕНИГОРОДКА</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>КАМ'ЯНКА</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>КАТЕРИНОПІЛЬ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>КОРСУНЬ-ШЕВЧЕНКІВСЬКИЙ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ЛИСЯНКА</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>МАНЬКІВКА</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>МОНАСТИРИЩЕ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ТАЛЬНЕ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ХРИСТИНІВКА</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ЧОРНОБАЙ</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ЧИГИРИН</city> </line>
+<line> <region_id>22</region_id> <region>ЧЕРКАСЬКА ОБЛАСТЬ</region> <city>ШПОЛА</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>ЧЕРНІВЦІ</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>НОВОДНІСТРОВСЬК</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>ВИЖНИЦЯ</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>ГЕРЦА</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>ГЛИБОКА</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>ЗАСТАВНА</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>КЕЛЬМЕНЦІ</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>КІЦМАНЬ</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>НОВОСЕЛИЦЯ</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>ПУТИЛА</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>СОКИРЯНИ</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>СТОРОЖИНЕЦЬ</city> </line>
+<line> <region_id>23</region_id> <region>ЧЕРНІВЕЦЬКА ОБЛАСТЬ</region> <city>ХОТИН</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ЧЕРНІГІВ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>НІЖИН</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>НОВГОРОД-СІВЕРСЬКИЙ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ПРИЛУКИ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>БАХМАЧ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>БОБРОВИЦЯ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>БОРЗНА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ВАРВА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ГОРОДНЯ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ІЧНЯ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ОСТЕР</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>КОРОП</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>КОРЮКІВКА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>КУЛИКІВКА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>МЕНА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>НОСІВКА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ЛАДАН</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>РІПКИ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>СЕМЕНІВКА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>СОСНИЦЯ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>СРІБНЕ</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>ТАЛАЛАЇВКА</city> </line>
+<line> <region_id>24</region_id> <region>ЧЕРНІГІВСЬКА ОБЛАСТЬ</region> <city>СНОВСЬК</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ГОЛОСІЇВСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ДАРНИЦЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ДЕСНЯНСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ДНІПРОВСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ОБОЛОНСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ПЕЧЕРСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ПОДІЛЬСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>СВЯТОШИНСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>СОЛОМ'ЯНСЬКИЙ</city> </line>
+<line> <region_id>25</region_id> <region></region> <city>ШЕВЧЕНКІВСЬКИЙ</city> </line>
+<line> <region_id>26</region_id> <region></region> <city>БАЛАКЛАВСЬКИЙ</city> </line>
+<line> <region_id>26</region_id> <region></region> <city>ГАГАРІНСЬКИЙ</city> </line>
+<line> <region_id>26</region_id> <region></region> <city>ЛЕНІНСЬКИЙ</city> </line>
+<line> <region_id>26</region_id> <region></region> <city>НАХІМОВСЬКИЙ</city> </line>
+</main>
